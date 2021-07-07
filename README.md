@@ -2,7 +2,6 @@
 
 This plugin adds a indentation and syntax support for [Azure Bicep](https://github.com/Azure/bicep).
 
----
 
 ## Installation
 
